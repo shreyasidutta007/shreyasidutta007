@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreyasi Dutta</h1>
 <h3 align="center">I am a BCA student</h3>
-<img align="right" alt="coding" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 - 🌱 I’m currently learning **html,css,php**
 
